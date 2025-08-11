@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApi", "PersonApi\PersonApi.csproj", "{645BFC69-8E5C-41BB-BEC0-57F234E948EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApi.Test", "PersonApi.Test\PersonApi.Test.csproj", "{3EC1519F-01A6-464A-899A-ED7882A61B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645BFC69-8E5C-41BB-BEC0-57F234E948EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645BFC69-8E5C-41BB-BEC0-57F234E948EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645BFC69-8E5C-41BB-BEC0-57F234E948EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645BFC69-8E5C-41BB-BEC0-57F234E948EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC1519F-01A6-464A-899A-ED7882A61B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC1519F-01A6-464A-899A-ED7882A61B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC1519F-01A6-464A-899A-ED7882A61B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC1519F-01A6-464A-899A-ED7882A61B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA6D06C-8493-4E39-8ACD-1D845B8413EA}
+	EndGlobalSection
+EndGlobal
